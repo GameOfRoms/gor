@@ -1,0 +1,5 @@
+package com.gameofroms.springapp.service;
+
+public class UsuarioManagerImpl implements UsuarioManager{
+
+}

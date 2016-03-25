@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="2" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="801" key="DIALOG_WIDTH"/>
+	<item value="1|Sans|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	<item value="/home/pirao/Escritorio/GOR/repogor/.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<item value="true" key="CommitDialog.showUntracked"/>
+	<item value="615" key="DIALOG_HEIGHT"/>
+	<item value="563" key="DIALOG_X_ORIGIN"/>
+	<item value="100" key="DIALOG_Y_ORIGIN"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/GameOfRoms/gor.git"/>
+		<item value="https://piraowinky@bitbucket.org/teamgor/repogor.git"/>
+		<item value="http://piraowinky@bitbucket.org/teamgor/repogor.git"/>
+		<item value="https://piraowinky@bitbucket.org/teamgor/repogor"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Daniel Quirant &lt;piraowinky@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Daniel Quirant &lt;piraowinky@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.dialogs.ResetTargetSelectionDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Sans|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="818" key="DIALOG_HEIGHT"/>
+		<item value="613" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.RebaseTargetSelectionDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Sans|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="575" key="DIALOG_HEIGHT"/>
+		<item value="613" key="DIALOG_X_ORIGIN"/>
+		<item value="127" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitImportWizard">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Sans|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="468" key="DIALOG_HEIGHT"/>
+		<item value="279" key="DIALOG_X_ORIGIN"/>
+		<item value="513" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.repository.CreateBranchPage$SourceSelectionDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Sans|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="505" key="DIALOG_HEIGHT"/>
+		<item value="0" key="DIALOG_X_ORIGIN"/>
+		<item value="-119" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.merge.MergeResultDialog.dialogBounds">
+		<item value="825" key="DIALOG_WIDTH"/>
+		<item value="1|Sans|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="257" key="DIALOG_HEIGHT"/>
+		<item value="551" key="DIALOG_X_ORIGIN"/>
+		<item value="339" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.COMMIT_DIALOG_SECTION">
+		<item value="771" key="DIALOG_WIDTH"/>
+		<item value="1|Sans|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="688" key="DIALOG_HEIGHT"/>
+		<item value="531" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/home/pirao/workspace/GOR/springapp/.git">
+			<item value="true"/>
+			<item value="Daniel Quirant &lt;piraowinky@gmail.com&gt;"/>
+			<item value="Primer commit del proyecto base&#x0A;&#x0A;Signed-off-by: Daniel Quirant &lt;piraowinky@gmail.com&gt;"/>
+			<item value="Daniel Quirant &lt;piraowinky@gmail.com&gt;"/>
+			<item value="049e9786e2a1f303912d375612de4216eb7ce573"/>
+		</list>
+		<list key="/home/pirao/workspace/GOR/.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.fetch.FetchResultDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Sans|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="473" key="DIALOG_HEIGHT"/>
+		<item value="613" key="DIALOG_X_ORIGIN"/>
+		<item value="195" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Sans|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="775" key="DIALOG_HEIGHT"/>
+		<item value="613" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="true" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

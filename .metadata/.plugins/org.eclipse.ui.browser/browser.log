@@ -1,0 +1,175 @@
+
+mar. 09, 2016 22:28:00.08 NEW SESSION
+mar. 09, 2016 22:28:00.08 
+mar. 09, 2016 22:28:00.08 (firefox:9413): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::sm-connect after class was initialised
+mar. 09, 2016 22:28:00.08 
+mar. 09, 2016 22:28:00.08 (firefox:9413): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::show-crash-dialog after class was initialised
+mar. 09, 2016 22:28:00.08 
+mar. 09, 2016 22:28:00.08 (firefox:9413): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::display after class was initialised
+mar. 09, 2016 22:28:00.08 
+mar. 09, 2016 22:28:00.08 (firefox:9413): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::default-icon after class was initialised
+mar. 09, 2016 22:28:00.24 
+mar. 09, 2016 22:28:00.24 (firefox:9413): Gtk-WARNING **: Imposible encontrar el motor de temas en la ruta al _modulo: «ubuntulooks»,
+mar. 09, 2016 22:28:04.12 1457558883948	addons.xpi	WARN	Exception running bootstrap method startup on firebug@software.joehewitt.com: TypeError: FirebugGCLICommands is undefined (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/pirao/.mozilla/firefox/mwad0hks.default/extensions/firebug@software.joehewitt.com.xpi!/bootstrap.js:78:5) JS Stack trace: startup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/pirao/.mozilla/firefox/mwad0hks.default/extensions/firebug@bootstrap.js:78:5 < XPI_callBootstrapMethod@XPIProvider.jsm:4462:9 < XPI_startup@XPIProvider.jsm:2679:13 < callProvider@AddonManager.jsm:221:12 < _startProvider@AddonManager.jsm:828:5 < AMI_startup@AddonManager.jsm:1006:9 < AMP_startup@AddonManager.jsm:2758:5 < AMC_observe@addonManager.js:58:7
+mar. 09, 2016 22:28:04.46 1457558884463	FirefoxAccounts	ERROR	Failed to get data from the login manager: [Exception... "Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]"  nsresult: "0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE)"  location: "JS frame :: resource://gre/components/crypto-SDR.js :: LoginManagerCrypto_SDR.prototype._sdrSlot :: line 25"  data: no] Stack trace: LoginManagerCrypto_SDR.prototype._sdrSlot()@resource://gre/components/crypto-SDR.js:25 < LoginManagerCrypto_SDR.prototype.isLoggedIn()@resource://gre/components/crypto-SDR.js:173 < this.LoginManagerStorage_json.prototype.isLoggedIn()@resource://gre/components/storage-json.js:478 < LoginManager.prototype.isLoggedIn()@resource://gre/components/nsLoginManager.js:424 < LoginManagerStorage.prototype._isLoggedIn()@resource://gre/modules/FxAccountsStorage.jsm:475 < LoginManagerStorage.prototype.get<()@resource://gre/modules/FxAccountsStorage.jsm:557 < TaskImpl_run()@resource://gre/modules/Task.jsm:314 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747 < Spinner.prototype.observe()@resource://gre/modules/AsyncShutdown.jsm:529
+mar. 09, 2016 22:28:05.03 
+mar. 09, 2016 22:28:05.03 (firefox:9477): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::sm-connect after class was initialised
+mar. 09, 2016 22:28:05.03 
+mar. 09, 2016 22:28:05.03 (firefox:9477): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::show-crash-dialog after class was initialised
+mar. 09, 2016 22:28:05.03 
+mar. 09, 2016 22:28:05.03 (firefox:9477): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::display after class was initialised
+mar. 09, 2016 22:28:05.03 
+mar. 09, 2016 22:28:05.03 (firefox:9477): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::default-icon after class was initialised
+mar. 09, 2016 22:28:05.07 
+mar. 09, 2016 22:28:05.07 (firefox:9477): Gtk-WARNING **: Imposible encontrar el motor de temas en la ruta al _modulo: «ubuntulooks»,
+mar. 09, 2016 22:28:05.21 1457558885217	addons.xpi	WARN	Exception running bootstrap method startup on firebug@software.joehewitt.com: TypeError: FirebugGCLICommands is undefined (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/pirao/.mozilla/firefox/mwad0hks.default/extensions/firebug@software.joehewitt.com.xpi!/bootstrap.js:78:5) JS Stack trace: startup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/pirao/.mozilla/firefox/mwad0hks.default/extensions/firebug@bootstrap.js:78:5 < XPI_callBootstrapMethod@XPIProvider.jsm:4462:9 < XPI_startup@XPIProvider.jsm:2679:13 < callProvider@AddonManager.jsm:221:12 < _startProvider@AddonManager.jsm:828:5 < AMI_startup@AddonManager.jsm:1006:9 < AMP_startup@AddonManager.jsm:2758:5 < AMC_observe@addonManager.js:58:7
+mar. 09, 2016 22:28:06.71 ERROR console.error: web_clipper: 
+mar. 09, 2016 22:28:06.71   Unsupported OS
+mar. 09, 2016 22:28:06.71   Linux
+mar. 09, 2016 22:28:06.76 ERROR console.error: web_clipper: 
+mar. 09, 2016 22:28:06.76   Cannot load native lib
+mar. 09, 2016 22:28:06.76 console.error: web_clipper: 
+mar. 09, 2016 22:28:06.76   Unsupported OS
+mar. 09, 2016 22:28:54.22 
+mar. 09, 2016 22:28:54.22 (firefox:9477): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+mar. 09, 2016 22:30:28.64 
+mar. 09, 2016 22:30:28.64 (firefox:9477): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+mar. 09, 2016 22:40:07.16 1457559607167	addons.update-checker	WARN	Update manifest for firefox@mega.co.nz did not contain an updates property
+mar. 09, 2016 22:40:07.56 1457559607563	addons.update-checker	WARN	Update manifest for sendtophone@martinezdelizarrondo.com did not contain an updates property
+mar. 09, 2016 22:40:08.08 1457559608087	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+mar. 09, 2016 22:40:14.73 1457559614731	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Unix error 2 during operation DirectoryIterator.prototype.next on file /home/pirao/.mozilla/firefox/mwad0hks.default/features (No existe el archivo o el directorio) ((unknown module)) No traceback available
+mar. 09, 2016 22:40:18.47 1457559618478	addons.xpi	ERROR	Attempted to load bootstrap scope from missing directory /home/pirao/.mozilla/firefox/mwad0hks.default/extensions/firefox-hotfix@mozilla.org.xpi
+mar. 09, 2016 22:40:18.58 1457559618479	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is missing bootstrap method startup
+mar. 09, 2016 22:40:22.19 1457559622190	addons.xpi	WARN	Exception running bootstrap method shutdown on firebug@software.joehewitt.com: TypeError: FirebugGCLICommands is undefined (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/pirao/.mozilla/firefox/mwad0hks.default/extensions/firebug@software.joehewitt.com.xpi!/bootstrap.js:104:5) JS Stack trace: shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/pirao/.mozilla/firefox/mwad0hks.default/extensions/firebug@bootstrap.js:104:5 < XPI_callBootstrapMethod@XPIProvider.jsm:4462:9 < AI_startInstall/<@XPIProvider.jsm:5795:1
+mar. 09, 2016 22:40:26.51 console.error: web_clipper: 
+mar. 09, 2016 22:40:26.51   Message: Error: The state cannot be set or get. The object may be not be registered, or may already have been unloaded.
+mar. 09, 2016 22:40:26.51   Stack:
+mar. 09, 2016 22:40:26.51     setStateFor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/ui/state.js:109:1
+mar. 09, 2016 22:40:26.51 properties/descriptor</descriptor[name].set@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/ui/state.js:164:9
+mar. 09, 2016 22:40:26.51 setButtonState@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/widget.js:170:5
+mar. 09, 2016 22:40:26.51 updateView@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/widget.js:137:3
+mar. 09, 2016 22:40:26.51 setAuthState@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/widget.js:93:3
+mar. 09, 2016 22:40:26.51 onLoggedOut@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/ui.js:166:5
+mar. 09, 2016 22:40:26.51 emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+mar. 09, 2016 22:40:26.51 emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+mar. 09, 2016 22:40:26.51 logout@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/auth.js:269:3
+mar. 09, 2016 22:40:26.51 onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/main.js:66:5
+mar. 09, 2016 22:40:26.51 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+mar. 09, 2016 22:40:26.51 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+mar. 09, 2016 22:40:26.51 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+mar. 09, 2016 22:40:26.51 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+mar. 09, 2016 22:40:26.51 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+mar. 09, 2016 22:40:26.51 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/pirao/.mozilla/firefox/mwad0hks.default/extensions/%7BE0B8C461-F8FB-49b4-8373-FE32E9252800%7D.xpi!/bootstrap.js:303:5
+mar. 09, 2016 22:40:26.51 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4462:9
+mar. 09, 2016 22:40:26.51 AI_startInstall/<@resource://gre/modules/addons/XPIProvider.jsm:5795:1
+mar. 09, 2016 22:40:26.51 TaskImpl_run@resource://gre/modules/Task.jsm:330:41
+mar. 09, 2016 22:40:26.51 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+mar. 09, 2016 22:40:26.51 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+mar. 09, 2016 22:40:26.51 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+mar. 09, 2016 22:40:26.51 
+mar. 09, 2016 22:40:26.51 console.error: web_clipper: 
+mar. 09, 2016 22:40:26.51   Message: Error: The state cannot be set or get. The object may be not be registered, or may already have been unloaded.
+mar. 09, 2016 22:40:26.51   Stack:
+mar. 09, 2016 22:40:26.51     setStateFor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/ui/state.js:109:1
+mar. 09, 2016 22:40:26.51 properties/descriptor</descriptor[name].set@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/ui/state.js:164:9
+mar. 09, 2016 22:40:26.51 setButtonState@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/widget.js:170:5
+mar. 09, 2016 22:40:26.51 updateView@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/widget.js:137:3
+mar. 09, 2016 22:40:26.51 setSidebarState@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/widget.js:109:3
+mar. 09, 2016 22:40:26.51 _hide@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/toolbar.js:250:5
+mar. 09, 2016 22:40:26.51 close@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/toolbar.js:668:3
+mar. 09, 2016 22:40:26.51 onLoggedOut@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/toolbar.js:678:3
+mar. 09, 2016 22:40:26.51 emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+mar. 09, 2016 22:40:26.51 emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+mar. 09, 2016 22:40:26.51 logout@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/auth.js:269:3
+mar. 09, 2016 22:40:26.51 onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/main.js:66:5
+mar. 09, 2016 22:40:26.51 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+mar. 09, 2016 22:40:26.51 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+mar. 09, 2016 22:40:26.51 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+mar. 09, 2016 22:40:26.51 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+mar. 09, 2016 22:40:26.51 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+mar. 09, 2016 22:40:26.51 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/pirao/.mozilla/firefox/mwad0hks.default/extensions/%7BE0B8C461-F8FB-49b4-8373-FE32E9252800%7D.xpi!/bootstrap.js:303:5
+mar. 09, 2016 22:40:26.51 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4462:9
+mar. 09, 2016 22:40:26.51 AI_startInstall/<@resource://gre/modules/addons/XPIProvider.jsm:5795:1
+mar. 09, 2016 22:40:26.51 TaskImpl_run@resource://gre/modules/Task.jsm:330:41
+mar. 09, 2016 22:40:26.51 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+mar. 09, 2016 22:40:26.51 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+mar. 09, 2016 22:40:26.51 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+mar. 09, 2016 22:40:26.51 
+mar. 09, 2016 22:40:26.51 console.error: web_clipper: 
+mar. 09, 2016 22:40:26.51   Message: Error: The state cannot be set or get. The object may be not be registered, or may already have been unloaded.
+mar. 09, 2016 22:40:26.51   Stack:
+mar. 09, 2016 22:40:26.51     setStateFor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/ui/state.js:109:1
+mar. 09, 2016 22:40:26.51 properties/descriptor</descriptor[name].set@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/ui/state.js:164:9
+mar. 09, 2016 22:40:26.51 setButtonState@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/widget.js:170:5
+mar. 09, 2016 22:40:26.51 updateView@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/widget.js:137:3
+mar. 09, 2016 22:40:26.51 setSidebarState@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/widget.js:109:3
+mar. 09, 2016 22:40:26.51 _hide@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/toolbar.js:250:5
+mar. 09, 2016 22:40:26.51 close@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/toolbar.js:668:3
+mar. 09, 2016 22:40:26.51 onLoggedOut@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/toolbar.js:678:3
+mar. 09, 2016 22:40:26.51 onLoggedOut@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/toolbar.js:81:9
+mar. 09, 2016 22:40:26.51 emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:112:9
+mar. 09, 2016 22:40:26.51 emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:89:38
+mar. 09, 2016 22:40:26.51 logout@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/auth.js:269:3
+mar. 09, 2016 22:40:26.51 onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://e0b8c461-f8fb-49b4-8373-fe32e9252800/web_clipper/lib/main.js:66:5
+mar. 09, 2016 22:40:26.51 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+mar. 09, 2016 22:40:26.51 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+mar. 09, 2016 22:40:26.51 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+mar. 09, 2016 22:40:26.51 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+mar. 09, 2016 22:40:26.51 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+mar. 09, 2016 22:40:26.51 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/pirao/.mozilla/firefox/mwad0hks.default/extensions/%7BE0B8C461-F8FB-49b4-8373-FE32E9252800%7D.xpi!/bootstrap.js:303:5
+mar. 09, 2016 22:40:26.51 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4462:9
+mar. 09, 2016 22:40:26.51 AI_startInstall/<@resource://gre/modules/addons/XPIProvider.jsm:5795:1
+mar. 09, 2016 22:40:26.51 TaskImpl_run@resource://gre/modules/Task.jsm:330:41
+mar. 09, 2016 22:40:26.51 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+mar. 09, 2016 22:40:26.51 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+mar. 09, 2016 22:40:26.51 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+mar. 09, 2016 22:40:26.51 
+mar. 09, 2016 22:40:26.73 ERROR console.error: web_clipper: 
+mar. 09, 2016 22:40:26.73   Unsupported OS
+mar. 09, 2016 22:40:26.73   Linux
+mar. 09, 2016 22:40:26.80 ERROR console.error: web_clipper: 
+mar. 09, 2016 22:40:26.80   Cannot load native lib
+mar. 09, 2016 22:40:26.80 console.error: web_clipper: 
+mar. 09, 2016 22:40:26.80   Unsupported OS
+mar. 09, 2016 22:41:40.47 WARNING WARNING ERROR console.error: web_clipper: 
+mar. 09, 2016 22:41:40.47   cannot find active tab
+mar. 09, 2016 22:41:40.47 WARNING WARNING ERROR console.error: web_clipper: 
+mar. 09, 2016 22:41:40.47   cannot find active tab
+mar. 09, 2016 22:41:40.47 ERROR console.error: web_clipper: 
+mar. 09, 2016 22:41:40.47   cannot find active tab
+mar. 09, 2016 22:41:40.47 WARNING WARNING ERROR console.error: web_clipper: 
+mar. 09, 2016 22:41:40.47   cannot find active tab
+mar. 09, 2016 22:41:40.57 1457559700579	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is missing bootstrap method shutdown
+mar. 09, 2016 22:54:48.60 
+mar. 09, 2016 22:54:48.60 (firefox:11010): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::sm-connect after class was initialised
+mar. 09, 2016 22:54:48.60 
+mar. 09, 2016 22:54:48.60 (firefox:11010): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::show-crash-dialog after class was initialised
+mar. 09, 2016 22:54:48.60 
+mar. 09, 2016 22:54:48.60 (firefox:11010): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::display after class was initialised
+mar. 09, 2016 22:54:48.60 
+mar. 09, 2016 22:54:48.60 (firefox:11010): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::default-icon after class was initialised
+mar. 09, 2016 22:54:48.65 
+mar. 09, 2016 22:54:48.65 (firefox:11010): Gtk-WARNING **: Imposible encontrar el motor de temas en la ruta al _modulo: «ubuntulooks»,
+mar. 09, 2016 22:54:48.71 1457560488713	addons.xpi	WARN	Bootstrap state is invalid (missing add-ons: /home/pirao/.mozilla/firefox/mwad0hks.default/extensions/firefox-hotfix@mozilla.org.xpi)
+mar. 09, 2016 22:54:49.10 1457560489102	FirefoxAccounts	ERROR	Failed to get data from the login manager: [Exception... "Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]"  nsresult: "0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE)"  location: "JS frame :: resource://gre/modules/XPCOMUtils.jsm :: XPCU_serviceLambda :: line 230"  data: no] Stack trace: XPCU_serviceLambda()@resource://gre/modules/XPCOMUtils.jsm:230 < XPCU_defineLazyGetter/<.get()@resource://gre/modules/XPCOMUtils.jsm:198 < LoginManagerStorage.prototype.get<()@resource://gre/modules/FxAccountsStorage.jsm:555 < TaskImpl_run()@resource://gre/modules/Task.jsm:314 < TaskImpl()@resource://gre/modules/Task.jsm:275 < createAsyncFunction/asyncFunction()@resource://gre/modules/Task.jsm:249 < this.FxAccountsStorageManager.prototype._doReadAndUpdateSecure<()@resource://gre/modules/FxAccountsStorage.jsm:319 < TaskImpl_run()@resource://gre/modules/Task.jsm:314 < TaskImpl()@resource://gre/modules/Task.jsm:275 < createAsyncFunction/asyncFunction()@resource://gre/modules/Task.jsm:249 < this.FxAccountsStorageManager.prototype._initialize<()@resource://gre/modules/FxAccountsStorage.jsm:88 < TaskImpl_run()@resource://gre/modules/Task.jsm:314 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747 < Spinner.prototype.observe()@resource://gre/modules/AsyncShutdown.jsm:529
+mar. 09, 2016 22:54:49.96 
+mar. 09, 2016 22:54:49.96 (firefox:11066): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::sm-connect after class was initialised
+mar. 09, 2016 22:54:49.96 
+mar. 09, 2016 22:54:49.96 (firefox:11066): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::show-crash-dialog after class was initialised
+mar. 09, 2016 22:54:49.96 
+mar. 09, 2016 22:54:49.96 (firefox:11066): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::display after class was initialised
+mar. 09, 2016 22:54:49.96 
+mar. 09, 2016 22:54:49.96 (firefox:11066): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::default-icon after class was initialised
+mar. 09, 2016 22:54:50.00 
+mar. 09, 2016 22:54:50.00 (firefox:11066): Gtk-WARNING **: Imposible encontrar el motor de temas en la ruta al _modulo: «ubuntulooks»,
+mar. 09, 2016 22:54:51.50 ERROR console.error: web_clipper: 
+mar. 09, 2016 22:54:51.50   Unsupported OS
+mar. 09, 2016 22:54:51.51   Linux
+mar. 09, 2016 22:54:51.55 ERROR console.error: web_clipper: 
+mar. 09, 2016 22:54:51.55   Cannot load native lib
+mar. 09, 2016 22:54:51.55 console.error: web_clipper: 
+mar. 09, 2016 22:54:51.56   Unsupported OS
+mar. 09, 2016 23:35:34.70 WARNING WARNING WARNING WARNING ERROR console.error: web_clipper: 
+mar. 09, 2016 23:35:34.71   cannot find active tab
+mar. 09, 2016 23:35:34.71 WARNING WARNING ERROR console.error: web_clipper: 
+mar. 09, 2016 23:35:34.71   cannot find active tab

@@ -1,0 +1,11 @@
+<%@ include file="/WEB-INF/views/head.jsp" %>
+
+<html>
+  <head><title>Hola :: Game Of Roms</title></head>
+  <body>
+  	<header>
+  		<h1>Game Of Roms</h1>
+  	</header>
+    <p><c:out value="${now}"/></p>
+  </body>
+</html>

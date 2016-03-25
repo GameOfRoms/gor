@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Servers</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>gor_domain.startWebLogic.sh</name>
+			<type>1</type>
+			<location>/home/pirao/oracle_home/user_projects/domains/gor_domain/startWebLogic.sh</location>
+		</link>
+	</linkedResources>
+</projectDescription>

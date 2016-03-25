@@ -1,0 +1,20 @@
+<%@ include file="/WEB-INF/views/include.jsp" %>
+<html lang="en">
+<head>
+
+	<spring:url value="/resources/css/bootstrap.css" var="bootsrapCss" />
+	<spring:url value="/resources/css/bootstrap-theme.css" var="bootsrapThemeCss" />
+	
+	<spring:url value="/resources/js/bootstrap.js" var="bootsrapJs" />
+	<spring:url value="/resources/js/npm.js" var="npmJs" />
+	
+	<spring:url value="/resources/js/jquery.1.12.2.min.js" var="jqueryJs" />
+	
+	<link href="${bootsrapCss}" rel="stylesheet" />
+	<link href="${bootsrapThemeCss}" rel="stylesheet" />
+    <script src="${bootsrapJs}"></script>
+    <script src="${npmJs}"></script>
+    <script src="${jqueryJs}"></script>
+    
+    <title>Hola :: Game Of Roms</title>
+</head>

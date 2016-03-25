@@ -1,0 +1,5 @@
+package com.gameofroms.springapp.domain;
+
+public class UsuarioTests {
+
+}
